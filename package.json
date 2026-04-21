@@ -11,12 +11,16 @@
   "dependencies": {
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
+    "metro": "^0.84.3",
+    "metro-config": "^0.84.3",
+    "metro-core": "^0.84.3",
+    "metro-resolver": "^0.84.3",
     "react": "19.1.0",
     "react-hook-form": "^7.73.1",
     "react-native": "0.81.5",
     "react-native-gesture-handler": "~2.28.0",
     "react-native-phone-number-input": "^2.1.0",
-    "react-native-safe-area-context": "^5.7.0"
+    "react-native-safe-area-context": "~5.6.0"
   },
   "private": true
 }
